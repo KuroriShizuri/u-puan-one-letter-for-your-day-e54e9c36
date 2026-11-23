@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/KuroriShizuri/u-puan-one-letter-for-your-day-e54e9c36/rank.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 [![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/KuroriShizuri/u-puan-one-letter-for-your-day-e54e9c36/reward.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 
-One letter for my day: **X**, for "eXhausted". The day was spent working through the night on deadline-day tasks, still going at 04:42 WIB with no sleep. Exhausted is the honest word for it: vivid, specific, and true. X is the sharper initial for it, not the obvious Z the brief itself names for zero sleep.
+One letter for my day: **Z**, for "zero sleep". The day was spent working through the night on deadline-day tasks, still going at 04:42 WIB with zero sleep. Zero sleep is the honest word for it: specific and quantified, not a vague mood. Z is its first letter, and a Z-word is almost always sleep-adjacent, so the letter carries the word on its own.
 
 The program writes exactly that one letter to `entry.txt` and nothing else.
 
